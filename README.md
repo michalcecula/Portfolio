@@ -17,7 +17,7 @@
 - REST API testing
 - SCRUM
 - DevTools
-- GIT/GitHub
+- GIT
 - HTML5/CSS3 - in process of learning*
 
 ### My documentation examples 
@@ -55,11 +55,12 @@
 - Szkolenie dla QA - [Certificate]
 - DevTools - [Certificate]
 
-### Tools
+### My daily Tester Tools
 
 - Jira, Confluence
 - TestLink
 - Postman
+- Visual Studio Code
 - ChatGPT
 - Lightshot
 - Awesome Screenshot
@@ -70,21 +71,23 @@
 
 ### Blogs
 
-- [testerzy.pl](https://testerzy.pl)
-- [jaktestowac.pl](https://jaktestowac.pl/)
-- [guru99.com](https://www.guru99.com)
-- [Testowanie oprogramowania Podcast by Ping](https://podcasttestowanie.pl/odcinki/)
-- [niebezpiecznik.pl](https://niebezpiecznik.pl)
 - [Newsletter QA Weekly](https://szkoleniedlaqa.pl/newsletter/)
 - [Newsletter Testowa Sroda](https://subscribepage.com/l4q9k4)
+- [Ministry of Testing](https://www.ministryoftesting.com)
+- [Fabryka Testów](https://fabrykatestow.pl/ciekawostki/)
+- [jaktestowac.pl](https://jaktestowac.pl/)
+- [Testowanie oprogramowania Podcast by Ping](https://podcasttestowanie.pl/odcinki/)
+- [testerzy.pl](https://testerzy.pl)
+- [guru99.com](https://www.guru99.com)
+- [niebezpiecznik.pl](https://niebezpiecznik.pl)
+
 
 ### Technical books
 
-- [Testowanie oprogramowania w praktyce](https://helion.pl/ksiazki/testowanie-oprogramowania-w-praktyce-studium-przypadkow-2-0-karolina-zmitrowicz-adam-roman,e_0ps1.htm#format/e)
-- [Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm#format/d)
-- [Piotr Wicherski - Testowanie Oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
-- [Radosław Smilgin - Zawód Tester](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)
-- [Pasja testowania. Wydanie II rozszerzone](https://helion.pl/ksiazki/pasja-testowania-wydanie-ii-rozszerzone-krzysztof-jadczyk,paste2.htm#format/d)
+- Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp
+- Zawód Tester - Radosław Smilgin
+- Testowanie Oprogramowania - Piotr Wicherski
+- Testowanie oprogramowania w praktyce - Adam Roman, Karolina Zmitrowicz
 
 ### My project
 
