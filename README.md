@@ -71,12 +71,11 @@
 
 ### Blogs and Newsletters
 
-- [4_testers]((https://www.4testers.pl/)
+- [4_testers](https://www.4testers.pl/)
+- [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
 - [Fabryka Testów](https://fabrykatestow.pl/ciekawostki/)
 - [jaktestowac.pl](https://jaktestowac.pl/)
 - [testerzy.pl](https://testerzy.pl)
-- [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
-- [guru99.com](https://www.guru99.com)
 ##### Newsletters
 - [Newsletter QA Weekly](https://szkoleniedlaqa.pl/newsletter/)
 - [Newsletter Adademia QA - Testowa Sroda](https://subscribepage.com/l4q9k4)
