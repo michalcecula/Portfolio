@@ -67,6 +67,7 @@
 - Bug Magnet, Fake Filler
 - Bird Eats Bug
 - Browserstack
+- Mailtrap
 - Color Zilla, What a Font
 
 ### Blogs and Newsletters
