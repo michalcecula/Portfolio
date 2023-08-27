@@ -77,8 +77,7 @@
 - [testerzy.pl](https://testerzy.pl)
 - [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
 - [guru99.com](https://www.guru99.com)
-
-#### Newsletters
+##### Newsletters
 - [Newsletter QA Weekly](https://szkoleniedlaqa.pl/newsletter/)
 - [Newsletter Adademia QA - Testowa Sroda](https://subscribepage.com/l4q9k4)
 - [Newsletter Ministry of Testing](https://www.ministryoftesting.com)
