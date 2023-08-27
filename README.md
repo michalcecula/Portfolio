@@ -69,18 +69,21 @@
 - Browserstack
 - Color Zilla, What a Font
 
-### Blogs
+### Blogs and Newsletters
 
-- [Newsletter QA Weekly](https://szkoleniedlaqa.pl/newsletter/)
-- [Newsletter Testowa Sroda](https://subscribepage.com/l4q9k4)
-- [Ministry of Testing](https://www.ministryoftesting.com)
+- [4_testers]((https://www.4testers.pl/)
 - [Fabryka Testów](https://fabrykatestow.pl/ciekawostki/)
 - [jaktestowac.pl](https://jaktestowac.pl/)
-- [Testowanie oprogramowania Podcast by Ping](https://podcasttestowanie.pl/odcinki/)
 - [testerzy.pl](https://testerzy.pl)
+- [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
 - [guru99.com](https://www.guru99.com)
-- [niebezpiecznik.pl](https://niebezpiecznik.pl)
 
+#### Newsletters
+- [Newsletter QA Weekly](https://szkoleniedlaqa.pl/newsletter/)
+- [Newsletter Adademia QA - Testowa Sroda](https://subscribepage.com/l4q9k4)
+- [Newsletter Ministry of Testing](https://www.ministryoftesting.com)
+- [Newsletter 4_testers TEAM](https://www.4testers.pl/)
+- [Newsletter Niebezpiecznik.pl](https://niebezpiecznik.pl)
 
 ### Technical books
 
