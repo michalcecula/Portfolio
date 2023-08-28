@@ -76,7 +76,6 @@
 - [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
 - [Fabryka Testów](https://fabrykatestow.pl/ciekawostki/)
 - [jaktestowac.pl](https://jaktestowac.pl/)
-- [testerzy.pl](https://testerzy.pl)
 ##### Newsletters
 - [Newsletter QA Weekly](https://szkoleniedlaqa.pl/newsletter/)
 - [Newsletter Adademia QA - Testowa Sroda](https://subscribepage.com/l4q9k4)
