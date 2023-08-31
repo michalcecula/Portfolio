@@ -18,7 +18,8 @@
 - SCRUM
 - DevTools
 - GIT
-- HTML5/CSS3 - in process of learning*
+- HTML5/CSS3
+- Python - in process of learning*
 
 ### My documentation examples 
 #### Project "Allegro Sandbox"
