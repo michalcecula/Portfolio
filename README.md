@@ -67,7 +67,7 @@
 - Awesome Screenshot
 - Bug Magnet, Fake Filler
 - Bird Eats Bug
-- Browserstack
+- BrowserStack
 - Mailtrap
 - Color Zilla, What a Font
 
@@ -77,6 +77,7 @@
 - [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
 - [Fabryka Testów](https://fabrykatestow.pl/ciekawostki/)
 - [jaktestowac.pl](https://jaktestowac.pl/)
+- [TechChatter](https://www.capgemini.com/pl-pl/kariera/twoja-kariera/role-eksperckie-menedzerskie/podcast-techchatter/)
 ##### Newsletters
 - [Newsletter QA Weekly](https://szkoleniedlaqa.pl/newsletter/)
 - [Newsletter Adademia QA - Testowa Sroda](https://subscribepage.com/l4q9k4)
