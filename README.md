@@ -1,4 +1,4 @@
-## Table of contents
+## 📗 Portfolio - Table of contents
 
 - [Technical skills](#technical-skills)
 - [My documentation examples](#my-documentation-examples)
@@ -9,7 +9,13 @@
 - [Technical books](#technical-books)
 - [My project](#my-project)
 
-### Technical skills
+## 📖 About Me
+
+My name is Michał Cecuła. I am a graduate of the Rzeszów University of Technology in logistics and transport. Before I discovered the possibilities of Quality Engineering I gained experience in logistics and built my own business. Do you know how I came up with the idea of change?👇
+
+I first heard about software testing when I was invited to participate as a "Beta Tester" for a blockchain-based project. This marked the beginning of my transition towards a career in testing. Since then, I have been constantly enhancing my qualifications and skills, dedicating a significant portion of my time to this project. I see my future with the progression of Quality Engineering.
+
+### 👨‍💻 Technical skills
 
 - ISTQB FL knowledge
 - Software testing
@@ -21,7 +27,7 @@
 - HTML5/CSS3
 - Python - in process of learning*
 
-### My documentation examples 
+### 📑 My documentation examples 
 #### Project "Allegro Sandbox"
 
 - Test cases and scenarios
@@ -33,7 +39,7 @@
 - Final report
   - [Final Report - Allegro Sandbox](https://github.com/michalcecula/Portfolio/files/12428202/Final.summary.report.pdf)
 
-### Courses
+### 🖋️ Courses
 
 - szkoleniedlaqa.pl - [Szkolenie dla QA](https://szkoleniedlaqa.pl/szkolenie/)
 - Sii Training Practice - [Zostań testerem](https://sii.pl/szkolenia/oferta/zostan-testerem/)
@@ -49,14 +55,14 @@
 - Udemy - [Kurs Jira od podstaw - zarządzanie projektami](https://www.udemy.com/course/kurs-jira-od-podstaw-zarzadzanie-projektami/)
 - Udemy - [Podstawy Scrum i Agile - Teoria, Praktyka, Certyfikacja](https://www.udemy.com/course/scrum-podstawy-teoretyczne-praktyczne-certyfikacja/)
 
-### Certificates
+### 🥇 Certificates
 
 - International Software Testing Qualifications Board - [ISTQB®️ Certified Tester Foundation Level](https://github.com/michalcecula/Portfolio/files/12438580/19536_CTFL_2023_EN_Michal_Cecula.pdf)
 - Sii Training Practice - [Certificate](https://github.com/michalcecula/Portfolio/files/12438543/Certyfikat_Michal.Cecula.pdf)
 - Szkolenie dla QA - [Certificate]
 - DevTools - [Certificate]
 
-### My daily Tester Tools
+### 🛠️  My daily Tester Tools
 
 - Jira, Confluence
 - TestLink
@@ -71,7 +77,7 @@
 - Mailtrap
 - Color Zilla, What a Font
 
-### Blogs and Newsletters
+### 💭 Recommended Blogs and Newsletters
 
 - [4_testers](https://www.4testers.pl/)
 - [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
@@ -85,7 +91,7 @@
 - [Newsletter 4_testers TEAM](https://www.4testers.pl/)
 - [Newsletter Niebezpiecznik.pl](https://niebezpiecznik.pl)
 
-### Technical books
+### 📚 Technical books
 
 - Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp
 - Zawód Tester - Radosław Smilgin
