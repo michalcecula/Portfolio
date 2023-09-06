@@ -86,7 +86,7 @@ I first heard about software testing when I was invited to participate as a "Bet
 - [Podcast TechChatter](https://www.capgemini.com/pl-pl/kariera/twoja-kariera/role-eksperckie-menedzerskie/podcast-techchatter/)
 ##### Newsletters
 - [Newsletter QA Weekly](https://szkoleniedlaqa.pl/newsletter/)
-- [Newsletter Adademia QA - Testowa Sroda](https://subscribepage.com/l4q9k4)
+- [Newsletter Akademia QA - Testowa Sroda](https://subscribepage.com/l4q9k4)
 - [Newsletter Ministry of Testing](https://www.ministryoftesting.com)
 - [Newsletter 4_testers TEAM](https://www.4testers.pl/)
 - [Newsletter Niebezpiecznik.pl](https://niebezpiecznik.pl)
