@@ -76,6 +76,7 @@ I first heard about software testing when I was invited to participate as a "Bet
 - BrowserStack
 - Mailtrap
 - Color Zilla, What a Font
+- Wappalyzer
 
 ### 💭 Recommended Blogs and Newsletters
 
