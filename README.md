@@ -19,17 +19,17 @@ I first heard about software testing when I was invited to participate as a "Bet
 #### Project "Skleptest"
 
 - Test cases and scenarios
-  - [Test cases&scenarios - Skleptest.xlsx](https://github.com/michalcecula/Portfolio/files/12823085/Test.cases.scenarios.-.Skleptest.xlsx)
+  - [Test cases&scenarios - Skleptest](https://github.com/michalcecula/Portfolio/files/12823085/Test.cases.scenarios.-.Skleptest.xlsx)
 - Bug reports
-  - [Bug report - Skleptest.xlsx](https://github.com/michalcecula/Portfolio/files/12823089/Bug.report.-.Skleptest.xlsx)
+  - [Bug report - Skleptest](https://github.com/michalcecula/Portfolio/files/12823089/Bug.report.-.Skleptest.xlsx)
 - Test plan
   - 
 - Final report
-  - [Final_summary_report - Skleptest.pdf](https://github.com/michalcecula/Portfolio/files/12823080/Final_summary_report.-.Skleptest.pdf)
+  - [Final summary report - Skleptest](https://github.com/michalcecula/Portfolio/files/12823104/Final.summary.report.-.Skleptest.pdf)
 
 #### Project "FORM - Training for QA"
 
-- Bug reports [Form - Bug report.xlsx](https://github.com/michalcecula/Portfolio/files/12823055/Form.-.Bug.report.xlsx)
+- Bug reports [Form - Bug report](https://github.com/michalcecula/Portfolio/files/12823055/Form.-.Bug.report.xlsx)
   
 #### Project "ALLEGRO SANDBOX"
 
