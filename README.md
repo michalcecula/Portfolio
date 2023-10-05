@@ -59,8 +59,8 @@ I first heard about software testing when I was invited to participate as a "Bet
 
 - International Software Testing Qualifications Board - [ISTQB®️ Certified Tester Foundation Level](https://github.com/michalcecula/Portfolio/files/12438580/19536_CTFL_2023_EN_Michal_Cecula.pdf)
 - Sii Training Practice - [Certificate](https://github.com/michalcecula/Portfolio/files/12438543/Certyfikat_Michal.Cecula.pdf)
-- Szkolenie dla QA - [Certificate]
-- DevTools - [Certificate]
+- Adam Gola | Szkolenie dla QA - [Certyfikat Szkolenie Główne.pdf](https://github.com/michalcecula/Portfolio/files/12817201/Certyfikat.Szkolenie.Glowne.pdf)
+- Adam Gola | DevTools - [DevTools Certyfikat.pdf](https://github.com/michalcecula/Portfolio/files/12817212/DevTools.Certyfikat.pdf)
 
 ### 🛠️  My daily Tester Tools
 
@@ -99,5 +99,3 @@ I first heard about software testing when I was invited to participate as a "Bet
 - Zawód Tester - Radosław Smilgin
 - Testowanie Oprogramowania - Piotr Wicherski
 - Testowanie oprogramowania w praktyce - Adam Roman, Karolina Zmitrowicz
-
-
