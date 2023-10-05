@@ -1,8 +1,8 @@
 ## 📗 Portfolio - Table of contents
 
 - [About Me](#about-me)
+- [Project "Skleptest.pl" - My documentation examples](#project-skleptestpl-my-documentation-examples)
 - [Technical skills](#technical-skills)
-- [My documentation examples](#my-documentation-examples)
 - [Courses](#courses)
 - [Certificates](#certificates)
 - [Tools](#tools)
@@ -15,18 +15,6 @@ My name is Michał Cecuła. I am a graduate of the Rzeszów University of Techno
 
 I first heard about software testing when I was invited to participate as a "Beta Tester" for a blockchain-based project. This marked the beginning of my transition towards a career in testing. Since then, I have been constantly enhancing my qualifications and skills, dedicating a significant portion of my time to this project. I see my future with the progression of Quality Engineering.
 
-### 👨‍💻 Technical skills
-
-- ISTQB FL knowledge
-- Software testing
-- SQL
-- REST API testing
-- SCRUM
-- DevTools
-- GIT
-- HTML5/CSS3
-- Python - in process of learning*
-
 ### 📑 Project "Skleptest.pl"
 #### My documentation examples 
 
@@ -38,6 +26,18 @@ I first heard about software testing when I was invited to participate as a "Bet
   - [Test Plan - Allegro Sandbox](https://github.com/michalcecula/Portfolio/files/12428201/Test.Plan.pdf)
 - Final report
   - [Final Report - Allegro Sandbox](https://github.com/michalcecula/Portfolio/files/12428202/Final.summary.report.pdf)
+ 
+### 👨‍💻 Technical skills
+
+- ISTQB FL knowledge
+- Software testing
+- SQL
+- REST API testing
+- SCRUM
+- DevTools
+- GIT
+- HTML5/CSS3
+- Python - in process of learning*
 
 ### 🖋️ Courses
 
