@@ -80,6 +80,7 @@ I first heard about software testing when I was invited to participate as a "Bet
 
 ### 💭 Recommended Blogs and Newsletters
 
+##### Blogs
 - [4_testers](https://www.4testers.pl/)
 - [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
 - [Fabryka Testów](https://fabrykatestow.pl/ciekawostki/)
