@@ -1,12 +1,12 @@
 ## 📗 Portfolio - Table of contents
 
 - [About Me](#about-me)
-- [Project "Skleptest.pl" - My documentation examples](#project-skleptestpl-my-documentation-examples)
+- [Project "Skleptest.pl"](#project-skleptestpl-my-documentation-examples)
 - [Technical skills](#technical-skills)
 - [Courses](#courses)
 - [Certificates](#certificates)
 - [Tools](#tools)
-- [Blogs](#blogs)
+- [Blogs and newsletters](#blogs-and-newsletters)
 - [Technical books](#technical-books)
 
 ## 📖 About Me
