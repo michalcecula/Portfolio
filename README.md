@@ -8,7 +8,6 @@
 - [Tools](#tools)
 - [Blogs](#blogs)
 - [Technical books](#technical-books)
-- [My project](#my-project)
 
 ## 📖 About Me
 
@@ -28,8 +27,8 @@ I first heard about software testing when I was invited to participate as a "Bet
 - HTML5/CSS3
 - Python - in process of learning*
 
-### 📑 My documentation examples 
-#### Project "Allegro Sandbox"
+### 📑 Project "Skleptest.pl"
+#### My documentation examples 
 
 - Test cases and scenarios
   - [Test cases&scenarios - Allegro Sandbox](https://github.com/michalcecula/Portfolio/files/12428189/Test.cases.and.scenarios.xlsx)
@@ -42,7 +41,7 @@ I first heard about software testing when I was invited to participate as a "Bet
 
 ### 🖋️ Courses
 
-- szkoleniedlaqa.pl - [Szkolenie dla QA](https://szkoleniedlaqa.pl/szkolenie/)
+- Adam Gola | szkoleniedlaqa.pl - [Szkolenie dla QA](https://szkoleniedlaqa.pl/szkolenie/)
 - Sii Training Practice - [Zostań testerem](https://sii.pl/szkolenia/oferta/zostan-testerem/)
 - YuoCode - [Fronted Developer od podstaw](https://youcode.pl/zostawiam-maila/) - in process of learning*
 - CodeGym - [Kurs Harvard CS50: "Podstawy programowania"](https://www.youtube.com/watch?v=WOvhPzWRUAY&list=PLrMB7p7ri2mZrwILyBTNAs1YaDyieN8PR&ab_channel=CodeGym)
@@ -100,5 +99,4 @@ I first heard about software testing when I was invited to participate as a "Bet
 - Testowanie Oprogramowania - Piotr Wicherski
 - Testowanie oprogramowania w praktyce - Adam Roman, Karolina Zmitrowicz
 
-### My project
 
