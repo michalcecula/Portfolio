@@ -16,7 +16,7 @@ My name is Michał Cecuła. I am a graduate of the Rzeszów University of Techno
 I first heard about software testing when I was invited to participate as a "Beta Tester" for a blockchain-based project. This marked the beginning of my transition towards a career in testing. Since then, I have been constantly enhancing my qualifications and skills, dedicating a significant portion of my time to this project. The portfolio presented below is the result of my regular activities in the "world of quality assurance". Enjoy reading :)
 
 ### 📑 Projects - my documentation examples
-#### PROJECT ["Skleptest"](https://skleptest.pl)
+#### PROJECT ["SKLEPTEST"](https://skleptest.pl)
 
 - Test cases and scenarios
   - [Test cases&scenarios](https://github.com/michalcecula/Portfolio/files/12823085/Test.cases.scenarios.-.Skleptest.xlsx)
