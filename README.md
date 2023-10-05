@@ -15,28 +15,29 @@ My name is Michał Cecuła. I am a graduate of the Rzeszów University of Techno
 
 I first heard about software testing when I was invited to participate as a "Beta Tester" for a blockchain-based project. This marked the beginning of my transition towards a career in testing. Since then, I have been constantly enhancing my qualifications and skills, dedicating a significant portion of my time to this project. The portfolio presented below is the result of my regular activities in the "world of quality assurance". Enjoy reading :)
 
-### 📑 Projects - My documentation examples
-#### Project "Skleptest"
+### 📑 Projects - my documentation examples
+#### [Project "Skleptest"](https://skleptest.pl)
 
 - Test cases and scenarios
-  - [Test cases&scenarios - Skleptest](https://github.com/michalcecula/Portfolio/files/12823085/Test.cases.scenarios.-.Skleptest.xlsx)
+  - [Test cases&scenarios](https://github.com/michalcecula/Portfolio/files/12823085/Test.cases.scenarios.-.Skleptest.xlsx)
 - Bug reports
-  - [Bug report - Skleptest](https://github.com/michalcecula/Portfolio/files/12823089/Bug.report.-.Skleptest.xlsx)
+  - [Bug reports](https://github.com/michalcecula/Portfolio/files/12823089/Bug.report.-.Skleptest.xlsx)
 - Test plan
   - 
 - Final report
-  - [Final summary report - Skleptest](https://github.com/michalcecula/Portfolio/files/12823104/Final.summary.report.-.Skleptest.pdf)
+  - [Final summary report](https://github.com/michalcecula/Portfolio/files/12823104/Final.summary.report.-.Skleptest.pdf)
 
 #### Project "FORM - Training for QA"
 
-- Bug reports [Form - Bug report](https://github.com/michalcecula/Portfolio/files/12823055/Form.-.Bug.report.xlsx)
+- Bug reports
+  - [Bug reports](https://github.com/michalcecula/Portfolio/files/12823055/Form.-.Bug.report.xlsx)
   
 #### Project "ALLEGRO SANDBOX"
 
 - Test cases and scenarios
-  - [Test cases&scenarios - Allegro Sandbox](https://github.com/michalcecula/Portfolio/files/12428189/Test.cases.and.scenarios.xlsx)
+  - [Test cases&scenarios](https://github.com/michalcecula/Portfolio/files/12428189/Test.cases.and.scenarios.xlsx)
 - Bug reports
-  - [Bug reports - Allegro Sandbox](https://github.com/michalcecula/Portfolio/files/12428195/Bug.reports.xlsx)
+  - [Bug reports](https://github.com/michalcecula/Portfolio/files/12428195/Bug.reports.xlsx)
 
 ### 👨‍💻 Technical skills
 
