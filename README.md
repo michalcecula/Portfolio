@@ -1,5 +1,6 @@
 ## 📗 Portfolio - Table of contents
 
+- [About Me](#about-me)
 - [Technical skills](#technical-skills)
 - [My documentation examples](#my-documentation-examples)
 - [Courses](#courses)
