@@ -86,13 +86,11 @@
 - [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
 - [Fabryka Testów](https://fabrykatestow.pl/ciekawostki/)
 - [jaktestowac.pl](https://jaktestowac.pl/)
-- [Podcast TechChatter](https://www.capgemini.com/pl-pl/kariera/twoja-kariera/role-eksperckie-menedzerskie/podcast-techchatter/)
 ##### Newsletters
 - [Newsletter QA Weekly](https://szkoleniedlaqa.pl/newsletter/)
 - [Newsletter Akademia QA - Testowa Sroda](https://subscribepage.com/l4q9k4)
 - [Newsletter Ministry of Testing](https://www.ministryoftesting.com)
 - [Newsletter 4_testers TEAM](https://www.4testers.pl/)
-- [Newsletter Niebezpiecznik.pl](https://niebezpiecznik.pl)
 
 ### 📚 Technical books
 
