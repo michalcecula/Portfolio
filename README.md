@@ -23,7 +23,7 @@ I first heard about software testing when I was invited to participate as a "Bet
 - Bug reports
   - [Bug reports](https://github.com/michalcecula/Portfolio/files/12823089/Bug.report.-.Skleptest.xlsx)
 - Test plan
-  - 
+  - [Test Plan - Skleptest.pdf](https://github.com/michalcecula/Portfolio/files/12829340/Test.Plan.-.Skleptest.pdf)
 - Final report
   - [Final summary report](https://github.com/michalcecula/Portfolio/files/12823104/Final.summary.report.-.Skleptest.pdf)
   
