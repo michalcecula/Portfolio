@@ -39,12 +39,13 @@ I first heard about software testing when I was invited to participate as a "Bet
 - ISTQB FL knowledge
 - Software testing
 - SQL
-- REST API testing
-- SCRUM
-- DevTools
+- REST API testing - basic
 - GIT
-- HTML5/CSS3
+- DevTools
+- Awareness of SCRUM Methodology
+- HTML5/CSS3 - basic
 - Python - in process of learning*
+- English - B2
 
 ### 🖋️ Courses
 
@@ -72,8 +73,8 @@ I first heard about software testing when I was invited to participate as a "Bet
 ### 🛠️  My daily Tester Tools
 
 - Jira, Confluence
-- TestLink
 - Postman
+- Testlink
 - Visual Studio Code
 - ChatGPT
 - Lightshot
