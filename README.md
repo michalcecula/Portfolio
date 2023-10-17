@@ -12,13 +12,13 @@
 #### PROJECT ["SKLEPTEST"](https://skleptest.pl)
 
 - Test cases and scenarios
-  - [Test cases&scenarios](https://github.com/michalcecula/Portfolio/files/12823085/Test.cases.scenarios.-.Skleptest.xlsx)
+  - [Test cases&scenarios](./img/Test cases&scenarios - Skleptest.xlsx)
 - Bug reports
-  - [Bug reports](https://github.com/michalcecula/Portfolio/files/12823089/Bug.report.-.Skleptest.xlsx)
+  - [Bug reports](Bug report - Skleptest.xlsx)
 - Test plan
-  - [Test Plan - Skleptest.pdf](https://github.com/michalcecula/Portfolio/files/12829340/Test.Plan.-.Skleptest.pdf)
+  - [Test Plan - Skleptest.pdf](Test Plan - Skleptest.pdf)
 - Final report
-  - [Final summary report](https://github.com/michalcecula/Portfolio/files/12823104/Final.summary.report.-.Skleptest.pdf)
+  - [Final summary report](Final summary report - Skleptest.pdf)
   
 #### PROJECT ["ALLEGRO SANDBOX"](https://allegro.pl.allegrosandbox.pl)
 
@@ -59,6 +59,7 @@
 ### 🥇 Certificates
 
 | ISTQB   |  Szkolenie dla QA |
+| DEVTOOLS | Sii - Training Practice |
 |---|---|
 |---|---|
 |![Cert](./img/19536_CTFL_2023_EN_Michal_Cecula.png) | ![Szkol](./img/Certyfikat_Szkolenie_Główne.png) |
