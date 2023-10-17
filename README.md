@@ -95,7 +95,7 @@
 - [Newsletter Ministry of Testing](https://www.ministryoftesting.com)
 - [Newsletter 4_testers TEAM](https://www.4testers.pl/)
 
-### 📚 Technical books
+### Technical books
 
 - Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp
 - Zawód Tester - Radosław Smilgin
