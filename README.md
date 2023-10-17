@@ -12,20 +12,20 @@
 #### PROJECT ["SKLEPTEST"](https://skleptest.pl)
 
 - Test cases and scenarios
-  - [Test cases&scenarios](./img/Test cases&scenarios - Skleptest.xlsx)
+  - [Test cases&scenarios](https://1drv.ms/x/s!AmJMYH0iAf18hWM6QLactLqGdY8R?e=hfKqR9)
 - Bug reports
-  - [Bug reports](Bug report - Skleptest.xlsx)
+  - [Bug reports]([Bug report - Skleptest.xlsx)](https://1drv.ms/x/s!AmJMYH0iAf18hWDA_cYqbcmzlgYW?e=GcQUAu)
 - Test plan
-  - [Test Plan - Skleptest.pdf](Test Plan - Skleptest.pdf)
+  - [Test Plan - Skleptest.pdf](https://1drv.ms/b/s!AmJMYH0iAf18hVd9Xa1WiiQPE6oE?e=8MypeP)
 - Final report
-  - [Final summary report](Final summary report - Skleptest.pdf)
+  - [Final summary report](https://1drv.ms/b/s!AmJMYH0iAf18hWSeb7E6gorLBE7g?e=Pfpkco)
   
 #### PROJECT ["ALLEGRO SANDBOX"](https://allegro.pl.allegrosandbox.pl)
 
 - Test cases and scenarios
-  - [Test cases&scenarios](https://github.com/michalcecula/Portfolio/files/12428189/Test.cases.and.scenarios.xlsx)
+  - [Test cases&scenarios](https://1drv.ms/x/s!AmJMYH0iAf18hT-mr8ClpmDDjeJE?e=2aguFN)
 - Bug reports
-  - [Bug reports](https://github.com/michalcecula/Portfolio/files/12428195/Bug.reports.xlsx)
+  - [Bug reports](https://1drv.ms/x/s!AmJMYH0iAf18hT7wncoNb7gv9OpG?e=hajPTo)
 
 ### 👨‍💻 Technical skills
 
@@ -59,10 +59,8 @@
 ### 🥇 Certificates
 
 | ISTQB   |  Szkolenie dla QA |
-| DEVTOOLS | Sii - Training Practice |
-|---|---|
-|---|---|
 |![Cert](./img/19536_CTFL_2023_EN_Michal_Cecula.png) | ![Szkol](./img/Certyfikat_Szkolenie_Główne.png) |
+| DEVTOOLS | Sii - Training Practice |
 |![Dev](./img/DevTools_Certyfikat.png) | ![Sii](./img/Zaświadczenie_Michał_Cecuła.png) |
 
 ### 🛠️  My daily Tester Tools
