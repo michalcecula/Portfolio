@@ -60,13 +60,9 @@
 
 | ISTQB   |  Szkolenie dla QA |
 |---|---|
+|---|---|
 |![Cert](./img/19536_CTFL_2023_EN_Michal_Cecula.png) | ![Szkol](./img/Certyfikat_Szkolenie_Główne.png) |
-
-
-- International Software Testing Qualifications Board - [ISTQB®️ Certified Tester Foundation Level](https://github.com/michalcecula/Portfolio/files/12438580/19536_CTFL_2023_EN_Michal_Cecula.pdf)
-- Adam Gola | Szkolenie dla QA - [Certyfikat Szkolenie Główne.pdf](https://github.com/michalcecula/Portfolio/files/12817201/Certyfikat.Szkolenie.Glowne.pdf)
-- Adam Gola | DevTools - [DevTools Certyfikat.pdf](https://github.com/michalcecula/Portfolio/files/12817212/DevTools.Certyfikat.pdf)
-- Sii Training Practice - [Certificate](https://github.com/michalcecula/Portfolio/files/12438543/Certyfikat_Michal.Cecula.pdf)
+|![Dev](./img/DevTools_Certyfikat.png) | ![Sii](./img/Zaświadczenie_Michał_Cecuła.png) |
 
 ### 🛠️  My daily Tester Tools
 
