@@ -59,8 +59,11 @@
 ### 🥇 Certificates
 
 | ISTQB   |  Szkolenie dla QA |
+| ------ | ------ |
 |![Cert](./img/19536_CTFL_2023_EN_Michal_Cecula.png) | ![Szkol](./img/Certyfikat_Szkolenie_Główne.png) |
+
 | DEVTOOLS | Sii - Training Practice |
+| ------ | ------|
 |![Dev](./img/DevTools_Certyfikat.png) | ![Sii](./img/Zaświadczenie_Michał_Cecuła.png) |
 
 ### 🛠️  My daily Tester Tools
