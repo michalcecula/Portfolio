@@ -6,7 +6,7 @@
 * [Certificates](#certificates)
 * [Business Tools](#business-tools)
 * [Recommended Blogs and Newsletters](#recommended-blogs-and-newsletters)
-* [Technical books](#📚-technical-books)
+* [Technical books](#📚technical-books)
 
 ### 📑 Projects - my documentation examples
 #### PROJECT ["SKLEPTEST"](https://skleptest.pl)
@@ -95,7 +95,7 @@
 - [Newsletter Ministry of Testing](https://www.ministryoftesting.com)
 - [Newsletter 4_testers TEAM](https://www.4testers.pl/)
 
-### 📚 Technical books
+### 📚Technical books
 
 - Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp
 - Zawód Tester - Radosław Smilgin
