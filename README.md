@@ -58,11 +58,9 @@
 
 ### 🥇 Certificates
 
-<div align="center">
-  
-ISTQB   |  Szkolenie dla QA
----|---
-|![](./19536_CTFL_2023_EN_Michal_Cecula.png) | ![](./Certyfikat_Szkolenie_Główne.png)
+| ISTQB   |  Szkolenie dla QA |
+|---|---|
+|![Cert](./img/19536_CTFL_2023_EN_Michal_Cecula.png) | ![Szkol](./img/Certyfikat_Szkolenie_Główne.png) |
 
 
 - International Software Testing Qualifications Board - [ISTQB®️ Certified Tester Foundation Level](https://github.com/michalcecula/Portfolio/files/12438580/19536_CTFL_2023_EN_Michal_Cecula.pdf)
