@@ -58,9 +58,13 @@
 
 ### 🥇 Certificates
 
-|  ISTQB            |  Szkolenie dla QA |
-|---------------------|----------------------|
-|![certificates](https://1drv.ms/i/s!AmJMYH0iAf18hWdgLjurhA6VuMvC?e=A8I95o) | ![](https://1drv.ms/i/s!AmJMYH0iAf18hSfTllGrP8Jw0Wqr?e=PGE4qz) |
+<div align="center">
+  
+ISTQB   |  Szkolenie dla QA
+---|---
+ <img width="500"/>|![certificates](https://1drv.ms/i/s!AmJMYH0iAf18hWdgLjurhA6VuMvC?e=A8I95o) | <img src=https://1drv.ms/i/s!AmJMYH0iAf18hSfTllGrP8Jw0Wqr?e=PGE4qz height ="100" />
+
+</div>
 
 - International Software Testing Qualifications Board - [ISTQB®️ Certified Tester Foundation Level](https://github.com/michalcecula/Portfolio/files/12438580/19536_CTFL_2023_EN_Michal_Cecula.pdf)
 - Adam Gola | Szkolenie dla QA - [Certyfikat Szkolenie Główne.pdf](https://github.com/michalcecula/Portfolio/files/12817201/Certyfikat.Szkolenie.Glowne.pdf)
