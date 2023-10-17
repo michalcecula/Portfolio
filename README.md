@@ -1,6 +1,6 @@
 ## 📗 Portfolio - Table of contents
 
-* [Projects](#projects-my-documentation-examples)
+* [Projects](#📑-projects-my-documentation-examples)
 * [Technical skills](#technical-skills)
 * [Courses](#courses)
 * [Certificates](#certificates)
