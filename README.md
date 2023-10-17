@@ -1,31 +1,31 @@
 ## 📗 Portfolio - Table of contents
 
-- [Projects](#projects-my-documentation-examples)
-- [Technical skills](#technical-skills)
-- [Courses](#courses)
-- [Certificates](#certificates)
-- [Tools](#tools)
-- [Blogs and newsletters](#blogs-and-newsletters)
-- [Technical books](#technical-books)
+* [Projects](#projects-my-documentation-examples)
+* [Technical skills](#technical-skills)
+* [Courses](#courses)
+* [Certificates](#certificates)
+* [Business Tools](#business-tools)
+* [Recommended Blogs and Newsletters](#recommended-blogs-and-newsletters)
+* [Technical books](#technical-books)
 
 ### 📑 Projects - my documentation examples
 #### PROJECT ["SKLEPTEST"](https://skleptest.pl)
 
 - Test plan
-  - [Test Plan](https://1drv.ms/b/s!AmJMYH0iAf18hVd9Xa1WiiQPE6oE?e=iMd8sa)
+  - [Test Plan_Skleptest](https://1drv.ms/b/s!AmJMYH0iAf18hVd9Xa1WiiQPE6oE?e=iMd8sa)
 - Test cases and scenarios
-  - [Test cases&scenarios](https://1drv.ms/x/s!AmJMYH0iAf18hWM6QLactLqGdY8R?e=Du7VA0)
+  - [Test cases&scenarios_Skleptest](https://1drv.ms/x/s!AmJMYH0iAf18hWM6QLactLqGdY8R?e=Du7VA0)
 - Bug reports
-  - [Bug reports](https://1drv.ms/x/s!AmJMYH0iAf18hWDA_cYqbcmzlgYW?e=95Tcq8)
+  - [Bug reports_Skleptest](https://1drv.ms/x/s!AmJMYH0iAf18hWDA_cYqbcmzlgYW?e=95Tcq8)
 - Final report
-  - [Final summary report](https://1drv.ms/b/s!AmJMYH0iAf18hWSeb7E6gorLBE7g?e=sEcjdd)
+  - [Final summary report_Skleptest](https://1drv.ms/b/s!AmJMYH0iAf18hWSeb7E6gorLBE7g?e=sEcjdd)
   
 #### PROJECT ["ALLEGRO SANDBOX"](https://allegro.pl.allegrosandbox.pl)
 
 - Test cases and scenarios
-  - [Test cases&scenarios](https://1drv.ms/x/s!AmJMYH0iAf18hWlPDkkFBiK4aXnI?e=CKOGCT)
+  - [Test cases&scenarios_Skleptest](https://1drv.ms/x/s!AmJMYH0iAf18hWlPDkkFBiK4aXnI?e=CKOGCT)
 - Bug reports
-  - [Bug reports](https://1drv.ms/x/s!AmJMYH0iAf18hWjYXJaif-Oi0-Rk?e=BxAXfi)
+  - [Bug reports_Skleptest](https://1drv.ms/x/s!AmJMYH0iAf18hWjYXJaif-Oi0-Rk?e=BxAXfi)
 
 ### 👨‍💻 Technical skills
 
@@ -66,7 +66,7 @@
 | --- | --- |
 |![Dev](./img/DevTools_Certyfikat.png) | ![Sii](./img/Zaświadczenie_Michał_Cecuła.png) |
 
-### 🛠️  My daily Tester Tools
+### 🛠️  My daily business Tools
 
 - Jira, Confluence
 - Postman
