@@ -23,9 +23,9 @@
 #### PROJECT ["ALLEGRO SANDBOX"](https://allegro.pl.allegrosandbox.pl)
 
 - Test cases and scenarios
-  - [Test cases&scenarios_Skleptest](https://1drv.ms/x/s!AmJMYH0iAf18hWlPDkkFBiK4aXnI?e=CKOGCT)
+  - [Test cases&scenarios_Allegro_Sandbox](https://1drv.ms/x/s!AmJMYH0iAf18hWlPDkkFBiK4aXnI?e=CKOGCT)
 - Bug reports
-  - [Bug reports_Skleptest](https://1drv.ms/x/s!AmJMYH0iAf18hWjYXJaif-Oi0-Rk?e=BxAXfi)
+  - [Bug reports_Allegro_Sandbox](https://1drv.ms/x/s!AmJMYH0iAf18hWjYXJaif-Oi0-Rk?e=BxAXfi)
 
 ### 👨‍💻 Technical skills
 
@@ -95,7 +95,7 @@
 - [Newsletter Ministry of Testing](https://www.ministryoftesting.com)
 - [Newsletter 4_testers TEAM](https://www.4testers.pl/)
 
-📚 ### Technical books
+### 📚 ### Technical books
 
 - Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp
 - Zawód Tester - Radosław Smilgin
