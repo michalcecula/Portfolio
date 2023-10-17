@@ -66,7 +66,7 @@
 | --- | --- |
 |![Dev](./img/DevTools_Certyfikat.png) | ![Sii](./img/Zaświadczenie_Michał_Cecuła.png) |
 
-### 🛠️  My daily business Tools
+### 🛠️ My daily business Tools
 
 - Jira, Confluence
 - Postman
@@ -95,7 +95,7 @@
 - [Newsletter Ministry of Testing](https://www.ministryoftesting.com)
 - [Newsletter 4_testers TEAM](https://www.4testers.pl/)
 
-### 📚 ### Technical books
+### 📚 Technical books
 
 - Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp
 - Zawód Tester - Radosław Smilgin
