@@ -1,6 +1,6 @@
 ## 📗 Portfolio - Table of contents
 
-- [Projects](#projects)
+- [Projects](#projects-my-documentation-examples)
 - [Technical skills](#technical-skills)
 - [Courses](#courses)
 - [Certificates](#certificates)
@@ -11,32 +11,32 @@
 ### 📑 Projects - my documentation examples
 #### PROJECT ["SKLEPTEST"](https://skleptest.pl)
 
-- Test cases and scenarios
-  - [Test cases&scenarios](https://1drv.ms/x/s!AmJMYH0iAf18hWM6QLactLqGdY8R?e=hfKqR9)
-- Bug reports
-  - [Bug reports]([Bug report - Skleptest.xlsx)](https://1drv.ms/x/s!AmJMYH0iAf18hWDA_cYqbcmzlgYW?e=GcQUAu)
 - Test plan
-  - [Test Plan - Skleptest.pdf](https://1drv.ms/b/s!AmJMYH0iAf18hVd9Xa1WiiQPE6oE?e=8MypeP)
+  - [Test Plan](https://1drv.ms/b/s!AmJMYH0iAf18hVd9Xa1WiiQPE6oE?e=iMd8sa)
+- Test cases and scenarios
+  - [Test cases&scenarios](https://1drv.ms/x/s!AmJMYH0iAf18hWM6QLactLqGdY8R?e=Du7VA0)
+- Bug reports
+  - [Bug reports](https://1drv.ms/x/s!AmJMYH0iAf18hWDA_cYqbcmzlgYW?e=95Tcq8)
 - Final report
-  - [Final summary report](https://1drv.ms/b/s!AmJMYH0iAf18hWSeb7E6gorLBE7g?e=Pfpkco)
+  - [Final summary report](https://1drv.ms/b/s!AmJMYH0iAf18hWSeb7E6gorLBE7g?e=sEcjdd)
   
 #### PROJECT ["ALLEGRO SANDBOX"](https://allegro.pl.allegrosandbox.pl)
 
 - Test cases and scenarios
-  - [Test cases&scenarios](https://1drv.ms/x/s!AmJMYH0iAf18hT-mr8ClpmDDjeJE?e=2aguFN)
+  - [Test cases&scenarios](https://1drv.ms/x/s!AmJMYH0iAf18hWlPDkkFBiK4aXnI?e=CKOGCT)
 - Bug reports
-  - [Bug reports](https://1drv.ms/x/s!AmJMYH0iAf18hT7wncoNb7gv9OpG?e=hajPTo)
+  - [Bug reports](https://1drv.ms/x/s!AmJMYH0iAf18hWjYXJaif-Oi0-Rk?e=BxAXfi)
 
 ### 👨‍💻 Technical skills
 
 - ISTQB FL knowledge
 - Software testing
 - SQL
-- REST API testing - basic
+- REST API testing
 - GIT
 - DevTools
 - Awareness of SCRUM Methodology
-- HTML5/CSS3 - basic
+- HTML5/CSS3
 - Python - in process of learning*
 - English - B2
 
@@ -59,11 +59,11 @@
 ### 🥇 Certificates
 
 | ISTQB   |  Szkolenie dla QA |
-| ------ | ------ |
+| --- | --- |
 |![Cert](./img/19536_CTFL_2023_EN_Michal_Cecula.png) | ![Szkol](./img/Certyfikat_Szkolenie_Główne.png) |
 
 | DEVTOOLS | Sii - Training Practice |
-| ------ | ------|
+| --- | --- |
 |![Dev](./img/DevTools_Certyfikat.png) | ![Sii](./img/Zaświadczenie_Michał_Cecuła.png) |
 
 ### 🛠️  My daily Tester Tools
