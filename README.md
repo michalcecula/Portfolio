@@ -29,16 +29,16 @@
 
 ### 👨‍💻 Technical skills
 
-- ISTQB FL knowledge
-- Software testing
-- SQL
-- REST API testing
-- GIT
-- DevTools
-- Awareness of SCRUM Methodology
-- HTML5/CSS3
-- English - B2
-![enter image description here](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) - in process of learning*
+- [x] ISTQB FL knowledge
+- [x] Software testing
+- [x] SQL
+- [x] REST API testing
+- [x] GIT
+- [x] DevTools
+- [x] Awareness of SCRUM Methodology
+- [x] HTML5/CSS3
+- [x] English - B2
+- [ ] ![enter image description here](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) - in process of learning*
 
 ### 🖋️ Courses
 
