@@ -1,30 +1,30 @@
 ## 📗 Portfolio - Table of contents
 
-* [Projects](#projects-my-documentation-examples)
-* [Technical skills](#technical-skills)
-* [Courses](#courses)
-* [Certificates](#certificates)
-* [Business Tools](#business-tools)
-* [Recommended Blogs and Newsletters](#recommended-blogs-and-newsletters)
-* [Technical books](#technical-books)
+* [Projects](#-projects---my-documentation-examples)
+* [Technical skills](#-technical-skills)
+* [Courses](#%EF%B8%8F-courses)
+* [Certificates](#-certificates)
+* [Business Tools](#%EF%B8%8F-my-daily-business-tools)
+* [Recommended Blogs and Newsletters](#-recommended-blogs-and-newsletters)
+* [Technical books](#-technical-books)
 
 ### 📑 Projects - my documentation examples
 #### PROJECT ["SKLEPTEST"](https://skleptest.pl)
 
-- Test plan
+- [x] Test plan
   - [Test Plan_Skleptest](https://1drv.ms/b/s!AmJMYH0iAf18hVd9Xa1WiiQPE6oE?e=iMd8sa)
-- Test cases and scenarios
+- [x] Test cases and scenarios
   - [Test cases&scenarios_Skleptest](https://1drv.ms/x/s!AmJMYH0iAf18hWM6QLactLqGdY8R?e=Du7VA0)
-- Bug reports
+- [x] Bug reports
   - [Bug reports_Skleptest](https://1drv.ms/x/s!AmJMYH0iAf18hWDA_cYqbcmzlgYW?e=95Tcq8)
-- Final report
+- [x] Final report
   - [Final summary report_Skleptest](https://1drv.ms/b/s!AmJMYH0iAf18hWSeb7E6gorLBE7g?e=sEcjdd)
   
 #### PROJECT ["ALLEGRO SANDBOX"](https://allegro.pl.allegrosandbox.pl)
 
-- Test cases and scenarios
+- [x] Test cases and scenarios
   - [Test cases&scenarios_Allegro_Sandbox](https://1drv.ms/x/s!AmJMYH0iAf18hWlPDkkFBiK4aXnI?e=CKOGCT)
-- Bug reports
+- [x] Bug reports
   - [Bug reports_Allegro_Sandbox](https://1drv.ms/x/s!AmJMYH0iAf18hWjYXJaif-Oi0-Rk?e=BxAXfi)
 
 ### 👨‍💻 Technical skills
@@ -37,17 +37,17 @@
 - DevTools
 - Awareness of SCRUM Methodology
 - HTML5/CSS3
-- Python - in process of learning*
 - English - B2
+- Python - in process of learning*
 
 ### 🖋️ Courses
 
-- Adam Gola | szkoleniedlaqa.pl - [Szkolenie dla QA](https://szkoleniedlaqa.pl/szkolenie/)
-- Sii Training Practice - [Zostań testerem](https://sii.pl/szkolenia/oferta/zostan-testerem/)
-- YuoCode - [Fronted Developer od podstaw](https://youcode.pl/zostawiam-maila/) - in process of learning*
-- CodeGym - [Kurs Harvard CS50: "Podstawy programowania"](https://www.youtube.com/watch?v=WOvhPzWRUAY&list=PLrMB7p7ri2mZrwILyBTNAs1YaDyieN8PR&ab_channel=CodeGym)
-- Kamil Brzeziński - [GIT od podstaw](https://www.programujodpodstaw.pl/kursy/git-od-podstaw/)
-- Kamil Brzeziński - [Rekrutacja programisty](https://www.programujodpodstaw.pl/kursy/rekrutacja-programisty/)
+- [x] Adam Gola | szkoleniedlaqa.pl - [Szkolenie dla QA](https://szkoleniedlaqa.pl/szkolenie/)
+- [x] Sii Training Practice - [Zostań testerem](https://sii.pl/szkolenia/oferta/zostan-testerem/)
+- [x] CodeGym - [Kurs Harvard CS50: "Podstawy programowania"](https://www.youtube.com/watch?v=WOvhPzWRUAY&list=PLrMB7p7ri2mZrwILyBTNAs1YaDyieN8PR&ab_channel=CodeGym)
+- [x] Kamil Brzeziński - [GIT od podstaw](https://www.programujodpodstaw.pl/kursy/git-od-podstaw/)
+- [x] Kamil Brzeziński - [Rekrutacja programisty](https://www.programujodpodstaw.pl/kursy/rekrutacja-programisty/)
+- [] YuoCode - [Fronted Developer od podstaw](https://youcode.pl/zostawiam-maila/) - in process of learning*
 ##### UDEMY Courses
 - Udemy - [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
 - Udemy - [Kurs SQL od podstaw | MySQL](https://www.udemy.com/course/kurs-sql-od-podstaw/)
@@ -97,7 +97,7 @@
 
 ### 📚 Technical books
 
-- Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp
-- Zawód Tester - Radosław Smilgin
-- Testowanie Oprogramowania - Piotr Wicherski
-- Testowanie oprogramowania w praktyce - Adam Roman, Karolina Zmitrowicz
+Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp
+Zawód Tester - Radosław Smilgin
+Testowanie Oprogramowania - Piotr Wicherski
+Testowanie oprogramowania w praktyce - Adam Roman, Karolina Zmitrowicz
