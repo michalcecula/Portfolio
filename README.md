@@ -38,7 +38,7 @@
 - Awareness of SCRUM Methodology
 - HTML5/CSS3
 - English - B2
-- Python - in process of learning*
+![enter image description here](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) - in process of learning*
 
 ### 🖋️ Courses
 
@@ -47,7 +47,7 @@
 - [x] CodeGym - [Kurs Harvard CS50: "Podstawy programowania"](https://www.youtube.com/watch?v=WOvhPzWRUAY&list=PLrMB7p7ri2mZrwILyBTNAs1YaDyieN8PR&ab_channel=CodeGym)
 - [x] Kamil Brzeziński - [GIT od podstaw](https://www.programujodpodstaw.pl/kursy/git-od-podstaw/)
 - [x] Kamil Brzeziński - [Rekrutacja programisty](https://www.programujodpodstaw.pl/kursy/rekrutacja-programisty/)
-- [] YuoCode - [Fronted Developer od podstaw](https://youcode.pl/zostawiam-maila/) - in process of learning*
+- [ ] YuoCode - [Fronted Developer od podstaw](https://youcode.pl/zostawiam-maila/) - in process of learning*
 ##### UDEMY Courses
 - Udemy - [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
 - Udemy - [Kurs SQL od podstaw | MySQL](https://www.udemy.com/course/kurs-sql-od-podstaw/)
@@ -97,7 +97,7 @@
 
 ### 📚 Technical books
 
-Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp
-Zawód Tester - Radosław Smilgin
-Testowanie Oprogramowania - Piotr Wicherski
-Testowanie oprogramowania w praktyce - Adam Roman, Karolina Zmitrowicz
+1. Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp
+2. Zawód Tester - Radosław Smilgin
+3. Testowanie Oprogramowania - Piotr Wicherski
+4. Testowanie oprogramowania w praktyce - Adam Roman, Karolina Zmitrowicz
