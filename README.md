@@ -60,11 +60,11 @@
 
 | ISTQB   |  Szkolenie dla QA |
 | --- | --- |
-|![ISTQB](./img/19536_CTFL_2023_EN_Michal_Cecula.png) | ![Szkol](./img/Certyfikat_Szkolenie_Główne.png) |
+| ![ISTQB](./img/19536_CTFL_2023_EN_Michal_Cecula.png) | ![Szkol](./img/Certyfikat_Szkolenie_Główne.png) |
 
-| DEVTOOLS | Sii - Training Practice |
+| Sii - Training Practice | DEVTOOLS |
 | --- | --- |
-|![Dev](./img/DevTools_Certyfikat.png) | ![Sii](.img/Zaświadczenie_Michał_Cecuła.png) |
+| ![Sii](.img/Zaświadczenie_Michał_Cecuła.png) | ![Dev](./img/DevTools_Certyfikat.png) |
 
 ### 🛠️ My daily business Tools
 
