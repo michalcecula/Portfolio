@@ -62,9 +62,9 @@
 | --- | --- |
 | ![ISTQB](./img/19536_CTFL_2023_EN_Michal_Cecula.png) | ![Szkol](./img/Certyfikat_Szkolenie_Główne.png) |
 
-| Sii - Training Practice | DEVTOOLS |
+| DEVTOOLS | Sii - Training Practice |
 | --- | --- |
-| ![Sii](.img/Zaświadczenie_Michał_Cecuła.png) | ![Dev](./img/DevTools_Certyfikat.png) |
+| ![Dev](./img/DevTools_Certyfikat.png | ![Sii](.img/Certyfikat_Michał_Cecuła.png) |
 
 ### 🛠️ My daily business Tools
 
