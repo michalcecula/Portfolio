@@ -64,7 +64,7 @@
 
 | DEVTOOLS | Sii - Training Practice |
 | --- | --- |
-|![Dev](./img/DevTools_Certyfikat.png) | ![Sii](.img/Certyfikat_Michał_Cecuła.png) |
+|![Dev](./img/DevTools_Certyfikat.png) | ![Sii](.img/Certyfikat_Michał-Cecuła.png) |
 
 ### 🛠️ My daily business Tools
 
