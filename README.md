@@ -101,3 +101,4 @@
 2. Zawód Tester - Radosław Smilgin
 3. Testowanie Oprogramowania - Piotr Wicherski
 4. Testowanie oprogramowania w praktyce - Adam Roman, Karolina Zmitrowicz
+5. Pięć dysfunkcji pracy zespołowej - Patrick Lencioni
