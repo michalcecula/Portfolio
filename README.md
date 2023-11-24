@@ -34,6 +34,8 @@
 - [x] SQL
 - [x] REST API testing
 - [x] GIT
+- [x] Docker
+- [x] Jenkins
 - [x] DevTools
 - [x] Awareness of SCRUM Methodology
 - [x] HTML5/CSS3
@@ -49,7 +51,7 @@
 - [x] Kamil Brzeziński - [Rekrutacja programisty](https://www.programujodpodstaw.pl/kursy/rekrutacja-programisty/)
 - [ ] YuoCode - [Fronted Developer od podstaw](https://youcode.pl/zostawiam-maila/) - in process of learning*
 ##### UDEMY Courses
-- Udemy - [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
+- Udemy - [Testowanie oprogramowania w praktyce | Bootcamp](https://www.udemy.com/course/testowanie-oprogramowania-w-praktyce-bootcamp/)
 - Udemy - [Kurs SQL od podstaw | MySQL](https://www.udemy.com/course/kurs-sql-od-podstaw/)
 - Udemy - [Postman od podstaw - testowanie REST API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/)
 - Udemy - [GIT od podstaw dla każdego](https://www.udemy.com/course/git-od-podstaw-dla-kazdego/)
@@ -66,20 +68,22 @@
 | --- | --- |
 | ![Dev](./img/DevTools_Certyfikat.png) | ![Sii](./img/Zaświadczenie_Michał_Cecuła.png) |
 
-### 🛠️ My daily business Tools
+### 🛠️ Daily Business Tools
 
 - Jira, Confluence
 - Postman
-- Testlink
+- Xray, Testlink
 - Visual Studio Code
 - ChatGPT
 - Lightshot
 - Awesome Screenshot
 - Bug Magnet, Fake Filler
+- BrowserStack, LambdaTest
 - Bird Eats Bug
-- BrowserStack
-- Mailtrap
-- Color Zilla, What a Font
+- Mailtrap, 10minutemail
+- Color Zilla, WhatFont
+- ClearCache, EditThisCookie
+- JSON Viewer
 - Wappalyzer
 
 ### 💭 Recommended Blogs and Newsletters
