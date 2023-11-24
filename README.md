@@ -82,6 +82,7 @@
 - Bird Eats Bug
 - Mailtrap, 10minutemail
 - Color Zilla, WhatFont
+- Page Ruler
 - ClearCache, EditThisCookie
 - JSON Viewer
 - Wappalyzer
