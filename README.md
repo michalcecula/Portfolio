@@ -62,6 +62,10 @@
 
 ### 🥇 Certificates
 
+| 4_testers   |
+| --- |
+| ![4_testers](./img/Certyfikat_4testers.png) |
+
 | ISTQB   |  Szkolenie dla QA |
 | --- | --- |
 | ![ISTQB](./img/19536_CTFL_2023_EN_Michal_Cecula.png) | ![Szkol](./img/Certyfikat_Szkolenie_Główne.png) |
