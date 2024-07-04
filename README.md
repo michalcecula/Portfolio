@@ -30,12 +30,13 @@
 ### 👨‍💻 Technical skills
 
 - [x] ISTQB FL knowledge
-- [x] Software testing
+- [x] PYTHON - basic knowledge
+- [x] Automation tests UI - Selenium
+- [x] REST API testing - Python/Postman
+- [x] CI/CD - Docker, Github Actions
+- [x] Manual software testing
 - [x] SQL
-- [x] REST API testing
-- [x] GIT
-- [x] Docker
-- [x] Jenkins
+- [x] GIT, Github, Gitlab
 - [x] DevTools
 - [x] Awareness of SCRUM Methodology
 - [x] HTML5/CSS3
@@ -44,12 +45,13 @@
 
 ### 🖋️ Courses
 
+- [x] 4_testers | 4testers.pl - [4_testers AUTOMATY](https://www.4testers.pl/)
 - [x] Adam Gola | szkoleniedlaqa.pl - [Szkolenie dla QA](https://szkoleniedlaqa.pl/szkolenie/)
 - [x] Sii Training Practice - [Zostań testerem](https://sii.pl/szkolenia/oferta/zostan-testerem/)
 - [x] CodeGym - [Kurs Harvard CS50: "Podstawy programowania"](https://www.youtube.com/watch?v=WOvhPzWRUAY&list=PLrMB7p7ri2mZrwILyBTNAs1YaDyieN8PR&ab_channel=CodeGym)
 - [x] Kamil Brzeziński - [GIT od podstaw](https://www.programujodpodstaw.pl/kursy/git-od-podstaw/)
 - [x] Kamil Brzeziński - [Rekrutacja programisty](https://www.programujodpodstaw.pl/kursy/rekrutacja-programisty/)
-- [ ] YuoCode - [Fronted Developer od podstaw](https://youcode.pl/zostawiam-maila/) - in process of learning*
+
 ##### UDEMY Courses
 - Udemy - [Testowanie oprogramowania w praktyce | Bootcamp](https://www.udemy.com/course/testowanie-oprogramowania-w-praktyce-bootcamp/)
 - Udemy - [Kurs SQL od podstaw | MySQL](https://www.udemy.com/course/kurs-sql-od-podstaw/)
