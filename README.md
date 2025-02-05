@@ -44,7 +44,7 @@
 - [ ] ![enter image description here](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) - in process of learning*
 
 ### 🛠️ Daily Business Tools
-## Main tester tools:
+# Main tester tools:
 - [x] Jira, Confluence
 - [x] Postman
 - [x] Pycharm
@@ -52,7 +52,7 @@
 - [x] DevTools
 - [x] Testlink
 - [x] AI Tools: ChatGPT, Perplexity, Copilot
-## Usefull extensions:
+# Usefull extensions:
 - [x] Browserstack
 - [x] Beard Eats Bug
 - [x] Lightshot, Awesome Screenshot
