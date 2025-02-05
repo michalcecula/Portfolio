@@ -27,21 +27,42 @@
 - [x] Bug reports
   - [Bug reports_Allegro_Sandbox](https://1drv.ms/x/s!AmJMYH0iAf18hWjYXJaif-Oi0-Rk?e=BxAXfi)
 
-### 👨‍💻 Technical skills
+### 👨‍💻 Technology and technical skills
 
-- [x] ISTQB FL knowledge
 - [x] PYTHON - basic knowledge
-- [x] Automation tests UI - Selenium
-- [x] REST API testing - Python/Postman
-- [x] CI/CD - Docker, Github Actions
-- [x] Manual software testing
+- [x] Automation tests UI - Selenium (webdriver)
+- [x] REST API testing - Python (pytest, assertpy)
 - [x] SQL
-- [x] GIT, Github, Gitlab
-- [x] DevTools
-- [x] Awareness of SCRUM Methodology
+- [x] CI/CD - Docker, Github Actions
 - [x] HTML5/CSS3
+- [x] GIT
+- [x] Awareness of SCRUM Methodology
+- [x] ISTQB FL knowledge
+- [x] Manual software testing
+- [x] DevTools
 - [x] English - B2
 - [ ] ![enter image description here](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) - in process of learning*
+
+### 🛠️ Daily Business Tools
+## Main tester tools:
+- [x] Jira, Confluence
+- [x] Postman
+- [x] Pycharm
+- [x] MySQL
+- [x] DevTools
+- [x] Testlink
+- [x] AI Tools: ChatGPT, Perplexity, Copilot
+## Usefull extensions:
+- [x] Browserstack
+- [x] Beard Eats Bug
+- [x] Lightshot, Awesome Screenshot
+- [x] Bug Magnet, Fake Filler
+- [x] ClearCache, EditThisCookie
+- [x] Wappalyzer
+- [x] Color Zilla, WhatFont
+- [x] Page Ruler
+- [x] Mailtrap, 10minutemail
+- [x] JSON Viewer
 
 ### 🖋️ Courses
 
@@ -73,25 +94,6 @@
 | DEVTOOLS | Sii - Training Practice |
 | --- | --- |
 | ![Dev](./img/DevTools_Certyfikat.png) | ![Sii](./img/Zaświadczenie_Michał_Cecuła.png) |
-
-### 🛠️ Daily Business Tools
-
-- Jira, Confluence
-- Postman
-- Xray, Testlink
-- Visual Studio Code
-- ChatGPT
-- Lightshot
-- Awesome Screenshot
-- Bug Magnet, Fake Filler
-- BrowserStack, LambdaTest
-- Bird Eats Bug
-- Mailtrap, 10minutemail
-- Color Zilla, WhatFont
-- Page Ruler
-- ClearCache, EditThisCookie
-- JSON Viewer
-- Wappalyzer
 
 ### 💭 Recommended Blogs and Newsletters
 
