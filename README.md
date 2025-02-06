@@ -12,13 +12,13 @@
 #### PROJECT ["SKLEPTEST"](https://skleptest.pl)
 
 - [x] Test plan
-  - [Test Plan_Skleptest](https://1drv.ms/b/s!AmJMYH0iAf18hXcATDt9FQYFmzxR?e=qUs0ji)
+  - [Test Plan_Skleptest](https://1drv.ms/b/c/7cfd01227d604c62/QWJMYH0iAf0ggHz3AgAAAAAAAEw7fRUGBZs8UQ)
 - [x] Test cases and scenarios
   - [Test cases&scenarios_Skleptest](https://1drv.ms/x/s!AmJMYH0iAf18hWM6QLactLqGdY8R?e=Du7VA0)
 - [x] Bug reports
   - [Bug reports_Skleptest](https://1drv.ms/x/s!AmJMYH0iAf18hXlaJg92jL8EqVZV?e=5PAfi2)
 - [x] Final report
-  - [Final summary report_Skleptest](https://1drv.ms/b/s!AmJMYH0iAf18hXhIOFZr8IO2raCS?e=Jxsswc)
+  - [Final summary report_Skleptest](https://1drv.ms/b/c/7cfd01227d604c62/QWJMYH0iAf0ggHz4AgAAAAAASDhWa_CDtq2gkg)
   
 #### PROJECT ["ALLEGRO SANDBOX"](https://allegro.pl.allegrosandbox.pl)
 
